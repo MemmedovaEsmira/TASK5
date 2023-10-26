@@ -295,14 +295,14 @@ color: #1B9E4B;
     justify-content: space-around;
     align-items: center;
     
-   
-}
-.container{
+  }
+  .container{
     width: 127px;
     height: 80px;
     gap: 4px;
     color: black;
     text-align: center;
+    list-style: none;
 }
 
 
